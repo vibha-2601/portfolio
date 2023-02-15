@@ -1,6 +1,6 @@
 import React from "react";
-import WorkImg from "../assests/projects/workImg.jpeg";
-import realEstate from "../assests/projects/realestate.jpg";
+import Gmail from "../assests/projects/Gmail.png";
+import Linkedin from "../assests/projects/Linkedin.png";
 
 const Work = () => {
   return (
@@ -19,7 +19,7 @@ const Work = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-2 gap-4">
           {/* Card item container */}
           <div
-            style={{ backgroundImage: `url(${WorkImg})` }}
+            style={{ backgroundImage: `url(${Linkedin})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover effects */}
@@ -28,13 +28,13 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://linkedin-clone-yt-79b17.web.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
 
-                <a href="/">
+                <a href="https://github.com/vibha-2601/Linkedin-clone">
                   <button className="text-center rounded-lg px-4 py-3 m-2  bg-white text-gray-700 font-bold text-lg">
                     code
                   </button>
@@ -45,7 +45,7 @@ const Work = () => {
 
           {/* Card item container */}
           <div
-            style={{ backgroundImage: `url(${realEstate})` }}
+            style={{ backgroundImage: `url(${Gmail})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover effects */}
@@ -54,13 +54,13 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://clone-2bedd.web.app">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
 
-                <a href="/">
+                <a href="https://github.com/vibha-2601/gmail-clone">
                   <button className="text-center rounded-lg px-4 py-3 m-2  bg-white text-gray-700 font-bold text-lg">
                     code
                   </button>
