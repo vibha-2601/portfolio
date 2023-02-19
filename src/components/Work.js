@@ -28,13 +28,13 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://linkedin-clone-yt-79b17.web.app/">
+                <a href="https://linkedin-clone-yt-79b17.web.app/" target="_blank" >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
 
-                <a href="https://github.com/vibha-2601/Linkedin-clone">
+                <a href="https://github.com/vibha-2601/Linkedin-clone" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2  bg-white text-gray-700 font-bold text-lg">
                     code
                   </button>
@@ -54,13 +54,13 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://clone-2bedd.web.app">
+                <a href="https://clone-2bedd.web.app" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
 
-                <a href="https://github.com/vibha-2601/gmail-clone">
+                <a href="https://github.com/vibha-2601/gmail-clone" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2  bg-white text-gray-700 font-bold text-lg">
                     code
                   </button>
