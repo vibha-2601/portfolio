@@ -25,7 +25,7 @@ const Work = () => {
             {/* Hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                LinkedIn Clone 
               </span>
               <div className="pt-8 text-center">
                 <a href="https://linkedin-clone-yt-79b17.web.app/" target="_blank" >
@@ -51,7 +51,7 @@ const Work = () => {
             {/* Hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                Gmail Clone
               </span>
               <div className="pt-8 text-center">
                 <a href="https://clone-2bedd.web.app" target="_blank">
